@@ -41,7 +41,12 @@
 
 </td></tr></table>  
 
+
 <br/> 
+
+### Coding Test Stats  
+
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=violetleejh)](https://solved.ac/violetleejh)
 
 <!--
 **jaehyuen/jaehyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 
 ### 🔭 Experience 
 
-- **Finger** - blockchain, back-end developer (2019.01 ~ )
+- blockchain, back-end developer (2019.01 ~ )
 - 산업기능요원 복무 (2019.04 ~ 2022.02)
 
 ### 💳 Certificate 

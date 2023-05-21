@@ -8,13 +8,14 @@
 - I'm interested in blockchain and back-end development
 
 
-### 🔭 Experience 
+### 🔭 Career 
 
-- blockchain, back-end developer (2019.01 ~ )
-- 산업기능요원 복무 (2019.04 ~ 2022.02)
+- blockchain engineer at nonghyup bank (2023.01 ~ )
+- blockchain, back-end developer at finger (2019.01 ~ 2023.05)
 
 ### 💳 Certificate 
 
+- **SQL Developer** - 한국데이터산업진흥원 (2023.04)
 - **Certified Hyperledger Fabric Administrator (CHFA)** - Linux Foundation (2021.12)
 - **정보기기운용기능사** - 한국산업인력공단 (2018.02)
 - **정보처리기능사** - 한국산업인력공단 (2016.09)

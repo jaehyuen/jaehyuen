@@ -10,7 +10,7 @@
 
 ### 🔭 Career 
 
-- blockchain engineer at nonghyup bank (2023.01 ~ )
+- blockchain engineer at nonghyup bank (2023.05 ~ )
 - blockchain, back-end developer at finger (2019.01 ~ 2023.05)
 
 ### 💳 Certificate 

@@ -14,7 +14,7 @@
 - blockchain, back-end developer at finger (2019.01 ~ 2023.05)
 
 ### 💳 Certificate 
-
+- **정보처리기사** - 한국산업인력공단 (2023.09)
 - **SQL Developer** - 한국데이터산업진흥원 (2023.04)
 - **Certified Hyperledger Fabric Administrator (CHFA)** - Linux Foundation (2021.12)
 - **정보기기운용기능사** - 한국산업인력공단 (2018.02)
